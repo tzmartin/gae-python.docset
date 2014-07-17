@@ -14,7 +14,9 @@ This is manually generated from [https://code.google.com/p/googleappengine/sourc
 
 ## Usage
 
-Download the repository and doubleclick the GAE-PHP.docset. The docset file should be installed into Dash and be ready to use.
+Download the repository and doubleclick the ```GAE-Python.docset```. The docset file should be installed into Dash and be ready to use.
+
+![GAE Python Docset](https://monosnap.com/image/TeSaY2gux5WIDMvB9jNKRNBE40FDn3.png)
 
 ![GAE Python Docset](https://monosnap.com/image/L3JkP6F07BgQKBUNpntz5Xfk8ZSujp.png)
 
